@@ -102,7 +102,17 @@ The Power BI dashboard includes:
 
 ---
 
-## 📁 Project Structure
+## 💡 Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis
+- SQL Querying
+- Data Visualization
+- Dashboard Design
+- Business Analytics
+- Reporting & Presentation
+- Problem Solving
+
+  ## 📁 Project Structure
 
 ```txt
 Data-Analytics-Project/
@@ -116,3 +126,17 @@ Data-Analytics-Project/
 ├── Presentation/
 ├── Images/
 └── README.md
+```
+---
+
+## 📌 Future Improvements
+- Add Machine Learning models
+- Deploy dashboards online
+- Automate data pipeline
+- Add real-time data integration
+
+---
+
+## 👩‍💻 Author
+<b>Pranali Valve</b>
+~ Aspiring Data Analyst passionate about transforming data into meaningful business insights.
