@@ -137,6 +137,10 @@ Data-Analytics-Project/
 
 ---
 
+<p align="center">
+  <img src="Images/customer trends analysis.png" width="700"/>
+</p>
+
 ## 👩‍💻 Author
 <b>Pranali Valve</b>
 ~ Aspiring Data Analyst passionate about transforming data into meaningful business insights.
